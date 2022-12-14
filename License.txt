@@ -1,0 +1,1 @@
+You can use this code for commercial or non-commercial purposes with the singular exclusion that it cannot be used for any machine translation, NLP, predictive or any other computational task where the source-code itself is a resulting work in any form. Such reproduction in any form by any automated method will be regarded as a breach of this license.
